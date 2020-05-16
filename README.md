@@ -1,13 +1,13 @@
 # DataMining
 Homework for class: Data Mining in Smart Systems
 
-Source of data:
-
 ---
+
+Source of data:
 
 https://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+sensor#
 
-Relevant work
+Relevant works:
 
 https://github.com/scbw1g15/COMP6208-ML-Assignment
 
