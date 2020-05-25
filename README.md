@@ -15,3 +15,7 @@ https://www.kaggle.com/marklvl/activity-recognition-with-healthy-older-people/ke
 
 For all relevant paper's fast accessibility thanks goes to Alexandra Elbakyan.
 
+Document:
+
+https://www.overleaf.com/read/nkrswsbrnyct
+
